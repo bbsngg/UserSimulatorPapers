@@ -5,7 +5,7 @@ Tracking the progress in user simulator of dialogue system
 
 
 
-| id   | 论文名                                                       | 年份 | 会议/期刊                                        | 方法层面                         |
+| id   | Name                                                       | Year | Conf/Jour                                        | Type                         |
 | ---- | ------------------------------------------------------------ | ---- | ------------------------------------------------ | -------------------------------- |
 |      | 1997                                                         |      |                                                  |                                  |
 | 1    | User modeling for spoken dialogue system evaluation          | 1997 | ASRU                                             | statistical-based                |
